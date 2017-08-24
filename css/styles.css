@@ -1,0 +1,21 @@
+@media (min-width: 99px) {
+ .binfo{ width:600px;
+ }
+}
+h1 {
+    text-align: center;
+}
+.dtitle {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+.binfo {
+    margin: 0px auto;
+}
+footer img {
+    height: 50px;
+    float: right;
+}
